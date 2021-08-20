@@ -1,0 +1,126 @@
+  
+
+	
+	body {
+		margin:0;
+		font: Times New Romans,Helvetica, Arial, freesans, sans-serif;
+	}
+	
+
+	#topbar{
+		background-color:#808080;	
+		width:250px; 
+		height:70px;
+		color:black;
+		border-radius: 0px 0px 0px 0px;
+
+	}
+	#name{
+		font-weight:bold;
+		font-size:2em;
+		margin:30px 0px 0px 320px;
+		position;relative;
+		top:3;
+	}
+	.fixedwidth{
+		width:1000px;
+		margin:0 auto;
+	}
+	#profilepicture{
+
+		height:240px;
+		width:200px;
+		border-color:;
+		border-radius:100%;
+		margin:18px 0px 30px 20px;
+	}
+	#sidebar{
+		background-color:#808080;
+		height: 1000px;
+		width: 250px;
+		padding:0px 20px 0px 0px;
+		margin-right:40px;
+		margin-left:-22px;
+		float:left;		
+	}
+	.bars{
+		height:35px;
+		width:250px;
+		background-color:black;
+		font-style:strong;
+		font-size:1.2em;
+		color:white;
+		float:left;
+		padding: 0px 0px 0 5px;
+		
+	}
+	.info{
+		font-size:1.1em;
+		padding:0px 0px 0px 5px;
+	
+	}
+	.main{
+		background-color:black;
+		height:35px;
+		width:73%;
+		color:white;
+		margin-left:270px;
+		font-size:1.2em;
+		font-style:;
+	}
+	.text{
+		margin-left:285px;
+		font-size:1.1em;
+		font-style:italic;
+	}
+	.margin{
+		margin-top:50px;
+	}
+	#form{
+	   float:left;
+}
+ #getInTouchHeader{
+            
+            font-style: normal;
+            font-weight: bold;
+            font-size: 72px;
+            line-height: 96px;
+            letter-spacing: 0.03em;
+            
+        }
+  input{
+            padding-left:39.5px;
+            border:none;
+        }
+        #nam{
+            width: 537px;
+            height: 50px;
+            margin:50.47px 0 40px 0;
+            background: rgba(0, 54, 0, 0.04);
+        }
+        #email{
+            width: 537px;
+            height: 50px;
+            margin:0 0 40px 0;
+            background: rgba(0, 54, 0, 0.04);
+        }
+        #text{
+            width: 537px;
+            height: 209px;
+            background: rgba(3, 95, 3, 0.04);
+        }
+        button {
+            float:right;
+            margin-left:00px;
+            margin-top:20px;
+            background-color:#ffffff;
+            border-radius:0;
+        }
+        
+      
+        #btnText {
+            
+        }
+	
+	
+	
